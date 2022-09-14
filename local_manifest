@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/mojito" name="dblenk-project/device_xiaomi_mojito.git" remote="github" revision="12.1" />
+ <project path="vendor/xiaomi/mojito" name="dblenk-project/vendor_xiaomi_mojito.git" remote="github" revision="12.1" />
+ <project path="kernel/xiaomi/mojito" name="xiaomi-sdm678/android_kernel_xiaomi_mojito.git" remote="github" revision="12" />
+ 
+</manifest>
